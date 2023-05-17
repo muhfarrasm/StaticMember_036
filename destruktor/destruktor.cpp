@@ -21,3 +21,5 @@ angka::angka(int i) //constructor
 	isiData();
 }
 
+
+
